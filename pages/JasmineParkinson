@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body>
+<!-- Background--!>
+<body bgcolor=#E0ECF8>
+<center>
+<!-- Header --!>
+<h1>EID 100 - HTML Web Page</h1>
+<!-- Paragraph HERE --!>
+<p>
+<!-- Image --!>
+<img src="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-snc6/5965_10151509259309824_505000209_n.jpg" width="500" height="333"></a>
+<!-- Hyperlink --!>
+<p><a href="http://www.twitter.com/JasParkinson" target="_blank">Here is Jasmine's Twitter Check her out for #GoodTimes</a><p>
+
+<h2> MORE ABOUT ME </h2>
+<!-- --!>
+<!--table--!>
+<p><table border="1">
+<tr><center>
+<td> Im Shy</td>
+<td></td>
+<td> Whoops</td>
+</tr>
+<tr>
+<td><center> I like video games currently I am re playing Dragon AGE</center></td>
+<td> &#9825;</td>
+<td><center> RISE OF THE DRAGON  
+           ____ __
+          { --.\  |          .)%%%)%%
+           '-._\\ | (\___   %)%%(%%(%%%
+               `\\|{/ ^ _)-%(%%%%)%%;%%%
+           .'^^^^^^^  /`    %%)%%%%)%%%'
+  jgs     //\   ) ,  /       '%%%%(%%'
+    ,  _.'/  `\<-- \< 
+     `^^^`     ^^   ^^
+  </td>
+</tr>
+</table></p>
+</center>
+</body>
+</html>
