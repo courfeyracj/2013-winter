@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<!-- Background--!>
+<body bgcolor=#E8E8E8>
+<center>
+  	<!-- Header --!>
+		<h1>EID 100 - HTML Web Page</h1>
+		<!-- Pharagraph --!>
+		<p>
+		<!-- Image --!>
+		<img src="http://farm9.staticflickr.com/8427/7793536758_6489dc4876.jpg" width="500" height="333"></a>
+		<!-- Hyperlink --!>
+		<p><a href="http://www.flickr.com/photos/natalieschabowicz/" target="_blank">Visit My Flickr - Natalie Schabowicz</a><p>
+		
+		<h2> Plenty of Fish </h2>
+		<!-- --!>
+		<!--table--!>
+		<p><table border="1">
+<tr><center>
+<td><b> Fish One</b></td>
+<td></td>
+<td><b> Fish Two</b></td>
+</tr>
+<tr>
+<td><center>><((((*></center></td>
+<td> &#9825;</td>
+<td><center><*))))><</center></td>
+</tr>
+</table></p>
+
+
+</center>
+</body>
+</html>
