@@ -1,0 +1,60 @@
+<html>
+           <head>
+  	<title> EID 100: Natasha Gomes Module 9 </title>
+
+
+
+		<script>
+			function dateAlert(){
+				var todaysDate = new Date();
+				var day = todaysDate.getDate();
+				var month = todaysDate.getMonth() + 1;
+				var year = todaysDate.getFullYear();
+
+				alert("Today's date is: " + month + "/" + day + "/" + year); 
+			}
+		</script>
+	</head>
+	<body bgcolor="#E3CEF6"> 
+		<center><h1> Natasha Gomes </h1> </center>
+
+<a href="http://photobucket.com/images/purple%20flower" target="_blank"><img src="http://i925.photobucket.com/albums/ad100/kajimini/Plant%20Photos/inactive%20plant%20photos/flower-Violet-Purple-Leaf-big.jpg" border="0" alt="purple flower photo: Violets flower-Violet-Purple-Leaf-big.jpg"/></a><br />
+
+
+<p>
+I am looking forward to finishing up my last year in Graphics Communications Management at Ryerson! I am hoping to learn how to build a professional online presence to network once I graduate!
+
+I am very much a simple soul that enjoys cooking, watching Netflix in bed and shopping on eBay. As you can see, my use of the digital world is limited to browsing Foodgawker for recipes, watching documentaries on Netflix and indulging in online shopping. With EID100, I am looking to expand my use more into social media and other realms of the digital world.	</p>
+                <br />
+		<br />
+		<br />
+		<table border="1">
+			<tr>
+				<td>Sparknotes of Natasha Gomes</td>
+				<td> </td>
+			</tr>
+			<tr>
+				<td>Program</td>
+				<td> Graphic Communications Management</td>
+			</tr>
+			<tr>
+				<td>Year</td>
+				<td>4th</td>
+			</tr>
+			<tr>
+				<td>Interests</td>
+				<td>Cooking, online shopping, music, being cozy and watching Netflix</td>
+			</tr>
+		</table>
+		<br />
+		<br />
+		<br />
+
+		Here is a link to my <a href=" http://natashagomesblog.wordpress.com">blog</a> that documents topics we have learned in EID100 <br />
+		
+		
+		<button onClick="dateAlert()">What is the date?</button> <br />
+		
+		
+	</body>
+</html>  
