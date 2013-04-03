@@ -16,16 +16,19 @@ href="http://lazahazen.com/">My favourite Music Blog!</a>
 </p>
 <h4>Currently my favourite track!</h4>
 
-<table border="2">
-<tr>
-  <th> Artist </th>
-  <th colspan="2">M83</th>
-<tr>
-  <td>Song</td>
-  <td>"Oblivion"</td>
-</tr>
+<table width="500" border="1" cellspacing="0" cellpadding="0">
+  <tr>
+    <th>Artist</th>
+    <td>M83 feat. Susanne </td>
+  </tr>
+  <tr>
+    <th>Song</th>
+    <td>Oblivion</td>
+  </tr>
+
 </table>
-<p>Check it out by clicking <a href="http://www.youtube.com/watch?v=822P87a773c">here!</a>
+
+<p>Check it out by clicking <a href="http://lazahazen.com/m83-oblivion-feat-susanne-sundfor/">here!</a>
 </p>
 
 </html>
