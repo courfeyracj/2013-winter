@@ -16,7 +16,7 @@ href="http://lazahazen.com/">My favourite Music Blog!</a>
 </p>
 <h4>Currently my favourite track!</h4>
 
-<table border="3">
+<table border="2">
 <tr>
   <th> Artist </th>
   <th colspan="2">M83</th>
