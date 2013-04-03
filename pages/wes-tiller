@@ -16,10 +16,11 @@ href="http://lazahazen.com/">My favourite Music Blog!</a>
 </p>
 <h4>Currently my favourite track!</h4>
 
+<p>
 <table width="500" border="1" cellspacing="0" cellpadding="0">
   <tr>
     <th>Artist</th>
-    <td>M83 feat. Susanne </td>
+    <td>M83 feat. Susanne Sundfør</td>
   </tr>
   <tr>
     <th>Song</th>
@@ -27,6 +28,7 @@ href="http://lazahazen.com/">My favourite Music Blog!</a>
   </tr>
 
 </table>
+</p>
 
 <p>Check it out by clicking <a href="http://lazahazen.com/m83-oblivion-feat-susanne-sundfor/">here!</a>
 </p>
