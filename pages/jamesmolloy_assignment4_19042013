@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<title>
+Calgary Flames Rookie Scoring
+</title>
+
+<style>
+body {background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/C_of_Red_Flag.JPG/1280px-C_of_Red_Flag.JPG');}
+</style>
+
+<body link="white">
+
+<h1 style="text-align:center;color:white;"> Calgary Flames Rookie Scoring </h1>
+
+<p style="text-align:center;color:white;"> 2012-2013 Regular Season </p>
+
+<table border="1" style="color:white;" bgcolor="black" align="center">
+<tr>
+  <th>Name</th>
+  <th>Games Played</th>
+  <th>Goals</th>
+  <th>Assists</th>
+  <th>Points</th>
+  <th>Point Per Game Average</th>
+</tr>
+<tr>
+  <td>Akim Aliu</td>
+  <td>3</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0.00</td>
+</tr>
+<tr>
+  <td>Sven Baertschi</td>
+  <td>16</td>
+  <td>2</td>
+  <td>3</td>
+  <td>5</td>
+  <td>0.31</td>
+</tr>
+<tr>
+  <td>Roman Cervenka</td>
+  <td>35</td>
+  <td>6</td>
+  <td>8</td>
+  <td>14</td>
+  <td>0.40</td>
+</tr>
+<tr>
+  <td>Ben Hanowski</td>
+  <td>2</td>
+  <td>1</td>
+  <td>0</td>
+  <td>1</td>
+  <td>0.50</td>
+</tr>
+<tr>
+  <td>Max Reinhart</td>
+  <td>7</td>
+  <td>1</td>
+  <td>1</td>
+  <td>2</td>
+  <td>0.29</td>
+</tr>
+</table>
+
+<p style="color:white;"> Rookie Profile Pages <br>
+<a href="http://flames.nhl.com/club/player.htm?id=8474049"> Akim Aliu</a>
+<br>
+<a href="http://flames.nhl.com/club/player.htm?id=8476466"> Sven Baertschi</a><br>
+<img src="http://icenationuk.files.wordpress.com/2012/09/386px-sven_baertschi_debut.png?w=549"
+alt="Sven Baertschi" width="386" height="589"><br>
+<a href="http://flames.nhl.com/club/player.htm?id=8476834"> Roman Cervenka</a><br>
+<a href="http://flames.nhl.com/club/player.htm?id=8475196"> Ben Hanowski</a><br>
+<a href="http://flames.nhl.com/club/player.htm?id=8475733"> Max Reinhart</a><p>
+
+</body>
+</html>
